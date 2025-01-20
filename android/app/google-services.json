@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "341227868709",
+    "project_id": "vehilemanage",
+    "storage_bucket": "vehilemanage.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341227868709:android:c41df2731757aa64f365cc",
+        "android_client_info": {
+          "package_name": "com.example.vehicele"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK-qz4Sr2BC0Npec_GPUQxYlGCX6mrUT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
